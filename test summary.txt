@@ -1,0 +1,4 @@
+Mission Report:
+Positive Texts: 3
+Negative Texts: 1
+Neutral Texts: 4

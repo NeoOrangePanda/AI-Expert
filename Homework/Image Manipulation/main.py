@@ -1,9 +1,6 @@
 from matplotlib import pyplot as plt
-from colorama import init, Fore
 import numpy as np
 import cv2
-
-init(autoreset=True)
 
 image = cv2.imread(r'Homework\Image Manipulation\example.jpg')
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
